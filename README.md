@@ -1,6 +1,4 @@
-<!--<img align="right" src="https://github-readme-stats.vercel.app/api?username=dengjia-lib&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />-->
-
-## ✨ _**WELCOME!**_ ✨ 😄 _**I'm [DENG_JIAAA](https://github.com/dengjia-lib)**_
+# ✨ _**WELCOME!**_ ✨ 😄 _**I'm [DENG_JIAAA](https://github.com/dengjia-lib)**_
 > 纵有疾风起，人生不言弃。
 <!--
 **dengjia-lib/dengjia-lib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,14 +20,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 
-<h3> 🤝🏻 Connect with Me </h3>
-
-<p align="center">
-<a href="https://www.anandmainali.com.np" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.anandmainali.com.np-blue?style=flat&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/anandmainali/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@anandmainali-blue?style=flat&logo=linkedin"></a>
-<a href="https://stackoverflow.com/users/8519896/anand-mainali?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Anand%20Mainali-blue?style=flat&logo=stackoverflow"></a>
-<a href="mailto:anandmainali5@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anandmainali5@gmail.com-blue?style=flat&logo=gmail"></a>
-</p>
+<!-- 访客数目统计 -->
+<!--<h2 align="center">Github stats :bar_chart:</h2>
+<h4 align="center">Visitor's count :eyes:</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{DENG-JIAAA}/count.svg" alt="AnhellO :: Visitor's Count" /></p>-->
 
 
 ⭐️ From [@dengjia-lib](https://github.com/anandmainali)
