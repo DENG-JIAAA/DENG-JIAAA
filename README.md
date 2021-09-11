@@ -1,4 +1,4 @@
-# ✨ _**WELCOME!**_ ✨ 😄 _**I'm [DENG_JIAAA](https://github.com/dengjia-lib)**_
+# ✨ _**WELCOME!**_ ✨ 😄 _**I'm [DENG_JIAAA](https://github.com/DENG-JIAAA)**_
 > _纵有疾风起，人生不言弃。_
 <!--
 **dengjia-lib/dengjia-lib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
