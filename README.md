@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
+
 <h1 align="center">
     ✨ <i><b>
     <span style="color: #7400b8">W</span>
@@ -25,7 +19,18 @@
 </i>
 </h1>
 
+<center>
+
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](music/1.m4a)
+</center>
+
+<iframe name="music" src="http://music.163.com/song/media/outer/url?id=1382359170.mp3" marginwidth="1px" marginheight="20px" width=100% height="80px" frameborder=1 　scrolling="yes">
+</iframe>
+
+<div align=life> 
+<iframe frameborder="0" marginwidth="0" marginheight="0" width=300 height=86 src="https://music.163.com/outchain/player?type=2&id=1347717822&auto=1&height=66"></iframe>
+</div>
+
 
 > _纵有疾风起，人生不言弃。_
 <!--
@@ -59,6 +64,4 @@ Here are some ideas to get you started:
 
 
 ⭐️ From [@DENG-JIAAA](https://github.com/DENG-JIAAA)
-</body>
-</html>
 
