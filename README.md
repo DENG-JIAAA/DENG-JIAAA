@@ -19,6 +19,7 @@
 </h1>
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://m10.music.126.net/20210911150424/24747e1ec2dc5b17e8ee90c6a556fec0/yyaac/035d/015c/000b/4755dfe5bd66f12517d97aab2e7f2d13.m4a)
+<audio id="music" src="https://m10.music.126.net/20210911150424/24747e1ec2dc5b17e8ee90c6a556fec0/yyaac/035d/015c/000b/4755dfe5bd66f12517d97aab2e7f2d13.m4a" loop autoplay></audio>
 
 > _纵有疾风起，人生不言弃。_
 <!--
