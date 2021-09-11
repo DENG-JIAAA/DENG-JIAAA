@@ -1,5 +1,5 @@
 # ✨ _**WELCOME!**_ ✨ 😄 _**I'm [DENG_JIAAA](https://github.com/dengjia-lib)**_
-> 纵有疾风起，人生不言弃。
+> _纵有疾风起，人生不言弃。_
 <!--
 **dengjia-lib/dengjia-lib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👋 Hi, I'm [@DengJia](https://github.com/dengjia-lib)
+- 👋 Hi, I'm [@DengJia](https://github.com/DENG-JIAAA)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 <p align="center"><img src="https://profile-counter.glitch.me/{DENG-JIAAA}/count.svg" alt="AnhellO :: Visitor's Count" /></p>-->
 
 
-⭐️ From [@dengjia-lib](https://github.com/anandmainali)
+⭐️ From [@DENG-JIAAA](https://github.com/DENG-JIAAA)
