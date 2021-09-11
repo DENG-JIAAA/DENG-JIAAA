@@ -1,22 +1,22 @@
 <h1 align="center">
     ✨
 	<i><b>
-        <font color="#7400b8">W</font>
-        <font color="#6930c3">E</font>
-        <font color="#5e60ce">L</font>
-        <font color="#5390d9">C</font>
-        <font color="#4ea8de">O</font>
-        <font color="#48bfe3">M</font>
-        <font color="#56cfe1">E</font>
-        <font color="#64dfdf">!</font>
-        <font color="#72efdd">!</font>
-        <font color="#80ffdb">!</font>
+        <span style="color: #7400b8">W</span>
+        <span style="color: #6930c3">E</span>
+        <span style="color: #5e60ce">L</span>
+        <span style="color: #5390d9">C</span>
+        <span style="color: #4ea8de">O</span>
+        <span style="color: #48bfe3">M</span>
+        <span style="color: #56cfe1">E</span>
+        <span style="color: #64dfdf">!</span>
+        <span style="color: #72efdd">!</span>
+        <span style="color: #80ffdb">!</span>
     </b></i>
 	✨ 😄
 	<i>
 		I'm
 		<a href="https://github.com/DENG-JIAAA" target="_blank">
-            <font color="#03071e">D</font><font color="#370617">E</font><font color="#6a040f">N</font><font color="#9d0208">G</font><font color="#d00000">_</font><font color="#dc2f02">J</font><font color="#e85d04">I</font><font color="#f48c06">A</font><font color="#faa307">A</font><font color="#ffba08">A</font>
+            <span style="color: #03071e">D</span><span style="color: #370617">E</span><span style="color: #6a040f">N</span><span style="color: #9d0208">G</span><span style="color: #d00000">_</span><span style="color: #dc2f02">J</span><span style="color: #e85d04">I</span><span style="color: #f48c06">A</span><span style="color: #faa307">A</span><span style="color: #ffba08">A</span>
 		</a>
 	</i>
 </h1>
