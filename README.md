@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=dengjia-lib&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<!--<img align="right" src="https://github-readme-stats.vercel.app/api?username=dengjia-lib&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />-->
 
 ## ✨ _**WELCOME!**_ ✨ 😄 _**I'm [DENG_JIAAA](https://github.com/dengjia-lib)**_
 > 纵有疾风起，人生不言弃。
