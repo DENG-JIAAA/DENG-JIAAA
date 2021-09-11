@@ -1,6 +1,5 @@
 <h1 align="center">
-    ✨
-	<i><b>
+    ✨ <i><b>
         <span style="color: #7400b8">W</span>
         <span style="color: #6930c3">E</span>
         <span style="color: #5e60ce">L</span>
@@ -11,10 +10,8 @@
         <span style="color: #64dfdf">!</span>
         <span style="color: #72efdd">!</span>
         <span style="color: #80ffdb">!</span>
-    </b></i>
-	✨ 😄
-	<i>
-		I'm
+    </b></i> ✨ 😄 <i>
+		I`m
 		<a href="https://github.com/DENG-JIAAA" target="_blank">
             <span style="color: #03071e">D</span><span style="color: #370617">E</span><span style="color: #6a040f">N</span><span style="color: #9d0208">G</span><span style="color: #d00000">_</span><span style="color: #dc2f02">J</span><span style="color: #e85d04">I</span><span style="color: #f48c06">A</span><span style="color: #faa307">A</span><span style="color: #ffba08">A</span>
 		</a>
@@ -36,6 +33,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
 - 👋 Hi, I'm [@DengJia](https://github.com/DENG-JIAAA)
 - 🔭 I’m currently working on ...
