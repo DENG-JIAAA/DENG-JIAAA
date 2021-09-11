@@ -1,4 +1,26 @@
-# ✨ _**WELCOME!**_ ✨ 😄 _**I'm [DENG_JIAAA](https://github.com/DENG-JIAAA)**_
+<h1 align="center">
+    ✨
+	<i><b>
+        <font color="#7400b8">W</font>
+        <font color="#6930c3">E</font>
+        <font color="#5e60ce">L</font>
+        <font color="#5390d9">C</font>
+        <font color="#4ea8de">O</font>
+        <font color="#48bfe3">M</font>
+        <font color="#56cfe1">E</font>
+        <font color="#64dfdf">!</font>
+        <font color="#72efdd">!</font>
+        <font color="#80ffdb">!</font>
+    </b></i>
+	✨ 😄
+	<i>
+		I'm
+		<a href="https://github.com/DENG-JIAAA" target="_blank">
+            <font color="#03071e">D</font><font color="#370617">E</font><font color="#6a040f">N</font><font color="#9d0208">G</font><font color="#d00000">_</font><font color="#dc2f02">J</font><font color="#e85d04">I</font><font color="#f48c06">A</font><font color="#faa307">A</font><font color="#ffba08">A</font>
+		</a>
+	</i>
+</h1>
+
 > _纵有疾风起，人生不言弃。_
 <!--
 **dengjia-lib/dengjia-lib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
