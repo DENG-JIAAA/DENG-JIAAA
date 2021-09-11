@@ -18,6 +18,8 @@
 	</i>
 </h1>
 
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://m10.music.126.net/20210911150424/24747e1ec2dc5b17e8ee90c6a556fec0/yyaac/035d/015c/000b/4755dfe5bd66f12517d97aab2e7f2d13.m4a)
+
 > _纵有疾风起，人生不言弃。_
 <!--
 **dengjia-lib/dengjia-lib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
